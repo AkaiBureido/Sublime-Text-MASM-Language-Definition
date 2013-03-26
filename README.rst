@@ -1,6 +1,6 @@
 MASM Language Definition 
 ----------------------------------------------------------------
-###for Sublime Text and Textmate(sort of).
+### For Sublime Text and Textmate(sort of).
 
 
 This is attempt at making a semy decent definition for MASM.
